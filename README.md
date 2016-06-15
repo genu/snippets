@@ -1,6 +1,9 @@
 # Snippets
 These snippets can used with [Dash](https://kapeli.com/dash) or other snippet software.
 ![](https://media.giphy.com/media/l41YbDVjTNtnHnunu/giphy.gif)
+## Usage
+Currently the only way to use these snippets is to copy them into your snippet software one by one. I plan to add a build process to automatically generate a snippet database for various snippet programs. I'm open to pull requests or suggestions on a good way to do this.
+
 ## Snippets
 The following snippets are included
 ### Angular
