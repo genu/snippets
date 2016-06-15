@@ -1,5 +1,6 @@
 # Snippets
 These snippets can used with [Dash](https://kapeli.com/dash) or other snippet software.
+![](https://media.giphy.com/media/l41YbDVjTNtnHnunu/giphy.gif)
 ## Snippets
 The following snippets are included
 ### Angular
